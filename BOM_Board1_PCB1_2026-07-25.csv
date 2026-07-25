@@ -1,0 +1,8 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier","Add into BOM","Convert to PCB","JLCPCB Price","LCSC Price","Category","Device","Name"
+"1","8","1uF","C1,C2,C3,C4,C5,C7,C10,C13","C0603","1uF","CL10A105KB8NNNC","SAMSUNG(三星)","C15849","LCSC","yes","","0.0144","","Capacitors:Multilayer Ceramic Capacitors MLCC - SMD/SMT","CL10A105KB8NNNC","1uF"
+"2","3","CAPR500-350X720X850100nF100V","C6,C9,C12","C0603","","CAPR500-350X720X850100nF100V","","C2927433","LCSC","yes","","0.0002","","","CAPR500-350X720X850100nF100V","CAPR500-350X720X850100nF100V"
+"3","2","5.1kΩ","R1,R2","R0603","5.1kΩ","0603WAF5101T5E","UNI-ROYAL(厚声)","C23186","LCSC","yes","","0.0005","","Resistors:Chip Resistor - Surface Mount","0603WAF5101T5E","5.1kΩ"
+"4","2","56kΩ","R3,R4","R0603","56kΩ","0603WAF5602T5E","UNI-ROYAL(厚声)","C23206","LCSC","yes","","0.0013","","Resistors:Chip Resistor - Surface Mount","0603WAF5602T5E","56kΩ"
+"5","1","SL2.1s","U1","SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL","","SL2.1s","CoreChips(和芯润德)","C2684433","LCSC","yes","","0.0375","","Interface:USB HUB Controllers","SL2.1s","SL2.1s"
+"6","3","10.0 QHHTZB6.3","USB1,USB2,USB3","USB-A-TH_10.0QHHTZB6.3","","10.0 QHHTZB6.3","SHOU HAN(首韩)","C668591","LCSC","yes","","0.0099","","Connectors:USB Connectors","10.0 QHHTZB6.3","10.0 QHHTZB6.3"
+"7","2","TYPE-C 16PIN 2MD(073)","USB4,USB5","USB-C-SMD_TYPE-C-16PIN-2MD-073","","TYPE-C 16PIN 2MD(073)","SHOU HAN(首韩)","C2765186","LCSC","yes","","0.011","","Connectors:USB Connectors","TYPE-C 16PIN 2MD(073)","TYPE-C 16PIN 2MD(073)"

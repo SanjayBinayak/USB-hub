@@ -1,0 +1,73 @@
+{
+  "fileType": "xlsx",
+  "unit": "mm",
+  "isExportBtmLayerCoordinate": false,
+  "btmLayerCoordinateType": "mirrorCoordinateY",
+  "isContainPanelized": false,
+  "isContainPanelMarkCoord": false,
+  "attrTableRows": [
+    {
+      "key": "Designator",
+      "title": "Designator"
+    },
+    {
+      "key": "Device",
+      "title": "Device"
+    },
+    {
+      "key": "Footprint",
+      "title": "Footprint"
+    },
+    {
+      "key": "Mid X",
+      "title": "Mid X"
+    },
+    {
+      "key": "Mid Y",
+      "title": "Mid Y"
+    },
+    {
+      "key": "Ref X",
+      "title": "Ref X"
+    },
+    {
+      "key": "Ref Y",
+      "title": "Ref Y"
+    },
+    {
+      "key": "Pad X",
+      "title": "Pad X"
+    },
+    {
+      "key": "Pad Y",
+      "title": "Pad Y"
+    },
+    {
+      "key": "Pins",
+      "title": "Pins"
+    },
+    {
+      "key": "Layer",
+      "title": "Layer"
+    },
+    {
+      "key": "Rotation",
+      "title": "Rotation"
+    },
+    {
+      "key": "SMD",
+      "title": "SMD"
+    },
+    {
+      "key": "Comment",
+      "title": "Comment"
+    },
+    {
+      "key": "Name",
+      "title": "Name"
+    }
+  ],
+  "mirrorBottomRotation": false,
+  "separator": "Comma",
+  "exportNoUnit": false
+}
