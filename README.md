@@ -17,4 +17,6 @@ I used Macondo's guide to make this.
 <img width="2160" height="1067" alt="PCB_PCB1_2026-07-25 (2)" src="https://github.com/user-attachments/assets/5701860d-6862-46d3-8d8b-eddcc1546603" />
 
 [View my project on OSHWLab](https://oshwlab.com/sanjaybinayak778/project_kwfthszv)
-Or Open in Editor [here](https://pro.easyeda.com/editor#id=618dd7a9519e408586639fe2bfcefef6)
+[View the 3D Model on Onshape](https://cad.onshape.com/documents/60750d0168db52aa99bfc6a9/w/4e12be9057d68f70d6f1111d/e/9dbc8b876e67fafbbb7183fe?renderMode=0&uiState=6a647ea932bead50053d1621)
+
+
