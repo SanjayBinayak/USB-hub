@@ -15,3 +15,6 @@ I used Macondo's guide to make this.
 <img width="2160" height="1067" alt="PCB_PCB1_2026-07-25 (1)" src="https://github.com/user-attachments/assets/8db6f0e2-1365-4f79-b605-1f23ee39a1b2" />
 
 <img width="2160" height="1067" alt="PCB_PCB1_2026-07-25 (2)" src="https://github.com/user-attachments/assets/5701860d-6862-46d3-8d8b-eddcc1546603" />
+
+[View my project on OSHWLab](https://oshwlab.com/sanjaybinayak778/project_kwfthszv)
+Or Open in Editor [here](https://pro.easyeda.com/editor#id=618dd7a9519e408586639fe2bfcefef6)
